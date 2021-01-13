@@ -1,0 +1,15 @@
+R 750 750
+
+NO ./textures/walls/redbrick.xpm
+SO ./textures/walls/purplestone.xpm
+WE ./textures/walls/greystone.xpm
+EA ./textures/walls/bluestone.xpm
+
+S ./textures/sprites/barrel.xpm
+F 112,128,144
+C 0,191,255
+
+11111111111111111111
+1S111000000000000211
+10000000111110100011
+11111111111111111111

@@ -1,0 +1,4 @@
+-	bonus if possible :
+	- HUD
+	- textures for the cieiling and the floor
+	- run and interractive walls ?
